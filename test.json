@@ -1,11 +1,15 @@
-{ {
-		"data": [{
-				"value": "value1",
-				"label": "label1"
-			}, {
-				"value": "value2",
-				"label": "label2"
-			}
-		]
-	}
+{
+	"labels": [{
+			"id": 1,
+			"data": [{
+					"value": "value1",
+					"label": "label1"
+				}, {
+					"value": "value2",
+					"label": "label2"
+				}
+			]
+		}
+
+	]
 }
